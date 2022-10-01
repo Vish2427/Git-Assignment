@@ -67,3 +67,11 @@ git branch -d <branch_name>
 ```
 git log
 ```
+
+```
+git merge <branch_name>
+```
+
+```
+git tag <version>
+```
