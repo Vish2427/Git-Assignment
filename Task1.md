@@ -51,27 +51,34 @@ git pull <origin_name> <branch_name>
 ```
 git branch <branch_name>
 ```
+![git branch](https://user-images.githubusercontent.com/98541876/194759870-668c8f99-c51e-44ce-aacc-7a8262c74ed5.png)
 
 ```
 git branch
 ```
+![branch list](https://user-images.githubusercontent.com/98541876/194759890-7a3cafb3-9ab7-441e-9a03-a24dc40fe6d3.png)
 
 ```
 git switch <branch_name>
 ```
+![git switch](https://user-images.githubusercontent.com/98541876/194759905-3685a8c9-3854-4760-9e02-2e1e39fe327c.png)
 
 ```
 git branch -d <branch_name>
 ```
+![branch delete](https://user-images.githubusercontent.com/98541876/194759935-506d693b-f4ec-4f91-9660-1d6ac1bcd8f3.png)
 
 ```
 git log
 ```
+![git log](https://user-images.githubusercontent.com/98541876/194759944-bf820c31-28e7-4a1c-ae6e-1cf5c5c7f73a.png)
 
 ```
 git merge <branch_name>
 ```
+![git merge](https://user-images.githubusercontent.com/98541876/194759957-e5c46efe-c74b-45b5-baa3-bf14fee8df2a.png)
 
 ```
 git tag <version>
 ```
+![git tag](https://user-images.githubusercontent.com/98541876/194759973-a8e364e5-c0ee-4839-9ec2-c10df545495f.png)
