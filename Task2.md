@@ -7,6 +7,9 @@ https://github.com/Vish2427/Git-Assignment
 
 ```
 2.Added readme file
+```
+https://github.com/Vish2427/Git-Assignment/blob/main/README.md
+```
 
 3.Added collabolator
 ```
