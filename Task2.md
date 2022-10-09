@@ -6,6 +6,8 @@
 https://github.com/Vish2427/Git-Assignment
 
 ```
+2.Added readme file
+
 3.Added collabolator
 ```
 https://github.com/RadheKrishnna
